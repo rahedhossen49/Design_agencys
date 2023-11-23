@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "img": "assets/img/dev1.png",
+      "des": "Hi I Am Backend Developer consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus ",
+      "desig": "Backend Developer",
+      "name":"Rahed Hossen"
+    },
+    {
+      "id": 2,
+      "img": "assets/img/dev2.png",
+      "des": " Hi Iam Backend Developer consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus",
+      "name": "Sazzad Hossain",
+      "desig": "Backend Developer"
+    },
+    {
+      "id": 3,
+      "img": "assets/img/dev3.png",
+      "des": "Hi I Am Backend Developer consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus ",
+      "desig": "Backend Developer",
+      "name":"Saiful Fayez"
+    },
+    {
+      "id": 4,
+      "img": "assets/img/dev4.png",
+      "des": "Hi I Am Frontent Developer consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus ",
+      "name": "Rahed Hossen",
+      "desig": "Frontend Developer"
+    },
+    {
+      "id": 5,
+      "img": "assets/img/dev5.png",
+      "des": "Hi I Am Frontent Developer consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus ",
+      "name": "Sazzad Hossain",
+      "desig": "Frontent Developer"
+    },
+    {
+      "id": 6,
+      "img": "assets/img/dev6.png",
+      "des": "Hi I Am Frontent Developer consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus ",
+      "name": "Saiful Fayez",
+      "desig": "Frontent Developer"
+    }
+  ]
+  

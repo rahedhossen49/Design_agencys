@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "num": "240452",
+      "name": "Followers",
+      "icon": "fa-solid fa-users-viewfinder"
+    },
+    {
+      "id": 2,
+      "num": "6800",
+      "name": "Solved Problem",
+      "icon": "fa-solid fa-thumbs-up"
+    },
+    {
+      "id": 3,
+      "num": "25000",
+      "name": "Happy Customers",
+      "icon": "fa-regular fa-face-smile"
+    },
+    {
+      "id": 4,
+      "num": "29000",
+      "name": "Project",
+      "icon": "fa-solid fa-hands-holding-child"
+    }
+  ]
+  

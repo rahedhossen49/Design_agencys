@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Devon Lane",
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "img": "assets/img/Rectangle2093-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Danny Bailey",
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "img": "assets/img/Rectangle2093-2.png"
+    },
+    {
+      "id": 3,
+      "name": "Alex Lov",
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "img": "assets/img/Rectangle2093.png"
+    }
+  ]
+  
